@@ -8,13 +8,13 @@ function App() {
     <div className='App'>
       <Router>
         <Switch>
-          <Route path='/about' exact>
+          <Route path='/basic-cra/about' exact>
             <About />
           </Route>
 
-          <Route path='/' exact>
+          <Route path='/basic-cra' exact>
             <h1>Hello from CRA</h1>
-            <Link to='/about'>About</Link>
+            <Link to='/basic-cra/about'>About</Link>
           </Route>
         </Switch>
       </Router>

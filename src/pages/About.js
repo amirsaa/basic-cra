@@ -6,7 +6,7 @@ const About = () => {
     <Fragment>
       <h1>About Page</h1>
       <p>This is a text of my about page</p>
-      <Link to='/'>Back to home</Link>
+      <Link to='/basic-cra'>Back to home</Link>
     </Fragment>
   );
 };
