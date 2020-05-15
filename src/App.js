@@ -19,7 +19,7 @@ function App() {
           </Route>
 
           <Route path='/' exact>
-            <h1>Hello from CRA</h1>
+            <h1>Hello World from CRA</h1>
             <Link to='/about'>About</Link>
           </Route>
         </Switch>
