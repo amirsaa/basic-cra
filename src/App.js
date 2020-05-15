@@ -22,8 +22,6 @@ function App() {
             <h1>Hello World from CRA</h1>
             <Link to='/about'>About</Link>
           </Route>
-
-          <Redirect to='/' />
         </Switch>
       </Router>
     </div>
