@@ -3,3 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Try it
 
 Open [Demo](https://amirsaa.github.io/basic-cra)
+
+Deploy by [gh-pages](https://www.npmjs.com/package/gh-pages)
